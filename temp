@@ -1,0 +1,19 @@
+// 	function calcular() {
+//     var num1 = Number(document.getElementById("num1").value);
+//     var num2 = Number(document.getElementById("num2").value);
+//     var elemResult = document.getElementById("resultado");
+
+//     if (elemResult.textContent === undefined) {
+//        elemResult.textContent = "= " + String(num1 <?=$operador?> num2);
+//     }
+//     else { // IE
+//        elemResult.innerText = "= " + String(num1 <?=$operador?> num2);
+//     }
+// }
+		// function mostrar(id){
+   		// 	document.getElementById(id).style.display = 'block'
+   	
+		// }
+
+
+        
